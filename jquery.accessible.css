@@ -1,0 +1,11 @@
+.inverse-default {
+	background-color: #000 !important;
+	color: #fff !important;
+}
+.accessible-button {
+	cursor: pointer;
+	background-color: #fafafa;
+	border: #ddd solid 1px;
+	border-radius: 3px;
+	padding: 3px 6px;
+}
